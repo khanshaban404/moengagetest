@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "704905093821",
+    "project_id": "moengagetest-82728",
+    "storage_bucket": "moengagetest-82728.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704905093821:android:9428ede56d782ae6664dd4",
+        "android_client_info": {
+          "package_name": "com.app.moengagetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704905093821-02rns51htue5f3h28mfc6etl499t40lk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.moengagetest",
+            "certificate_hash": "77c42d57da75e48acf7a7d1b7747b32dd13d98af"
+          }
+        },
+        {
+          "client_id": "704905093821-dl61jrh54ejsdkruglea7r72479g85mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7JwksgPYssn4krK4IrwjIIDekIYKJckQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704905093821-dl61jrh54ejsdkruglea7r72479g85mk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
